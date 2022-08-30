@@ -3,6 +3,8 @@
 
 #### CRACK SIMPLE !! KLO KUNING YAK WAJARIN AJA KARENA INI SCRIPT FREE
 
+#### KEY TRIAL 1 DAY 90 DEVICE : KRZTT-PQYKW-AHWCD-MTNBB
+
 ### Install
 ```bash
 $ pkg update && pkg upgrade
