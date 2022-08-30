@@ -1,5 +1,5 @@
 ### Screenshot
-<img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/IMG_20210407_113559.jpg" />
+<img src="https://github.com/HikmatXI/simple/blob/main/Screenshot_2022-08-29-23-28-17-215_ru.iiec.pydroid3.png" />
 
 #### CRACK SIMPLE !! KLO KUNING YAK WAJARIN AJA KARENA INI SCRIPT FREE
 
