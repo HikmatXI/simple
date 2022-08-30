@@ -11,7 +11,7 @@ $ pkg install git
 $ pip install requests bs4 rich requests stdiomask
 $ git clone https://github.com/HikmatXI/simple
 $ cd simple
-$ python simple.py
+$ python simplev2.py
 ```
 ##### MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/HikmatXI)[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jhumhita.lupss)
